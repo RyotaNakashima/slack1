@@ -1,0 +1,18 @@
+{
+  "name": "qqqq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.2",
+    "power-assert": "^1.6.1"
+  }
+}
