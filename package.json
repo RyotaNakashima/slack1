@@ -12,7 +12,7 @@
     "axios": "^0.19.2"
   },
   "devDependencies": {
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "power-assert": "^1.6.1"
   }
 }
